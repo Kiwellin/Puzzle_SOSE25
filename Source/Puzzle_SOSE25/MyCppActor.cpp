@@ -16,6 +16,7 @@ void AMyCppActor::BeginPlay()
 {
 	Super::BeginPlay();
 	
+	
 }
 
 // Called every frame

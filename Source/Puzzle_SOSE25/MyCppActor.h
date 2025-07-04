@@ -18,6 +18,9 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	int TestInt;
 
+	UPROPERTY(EditAnywhere)
+	float Testfloat;
+
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	FString String = "hy";
 
