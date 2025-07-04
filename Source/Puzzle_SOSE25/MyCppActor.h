@@ -57,4 +57,7 @@ public:
 	UFUNCTION(BlueprintImplementableEvent)
 	void Eventimplementable();
 
+	UFUNCTION(BlueprintCallable)
+	   void TestFunction() ;
+
 };

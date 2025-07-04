@@ -40,6 +40,10 @@ float AMyCppActor::Blueprintpure()
 	return 0.0f;
 }
 
+void AMyCppActor::TestFunction()
+{
+}
+
 
 
 
